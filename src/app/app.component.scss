@@ -1,0 +1,22 @@
+.lable {
+  margin-right: 8px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.right {
+  float: right;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  .tab-container {
+    margin: auto;
+  }
+}
